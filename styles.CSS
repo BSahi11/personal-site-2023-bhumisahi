@@ -71,11 +71,11 @@ body {
   
   .top-birds  {
       position: absolute;
-      right: 300px;
-      top: 80px;
+      right: 600px;
+      top: 200px;
   }
   .bottom-birds  {
       position: absolute;
-      left: 300px;
-      bottom: 300px;
+      left: 500px;
+      bottom: 450px;
   }
