@@ -22,7 +22,7 @@ body {
   
   .top-container {
       background-color: #DDFFBB;
-      padding-bottom: 70px;
+      padding-bottom: 90px;
   }
   
   .middle-container {
@@ -70,12 +70,12 @@ body {
   }
   
   .top-birds  {
-      position: absolute;
+      position: relative;
       right: 600px;
       top: 200px;
   }
   .bottom-birds  {
-      position: absolute;
+      position: relative;
       left: 500px;
       bottom: 450px;
   }
